@@ -8,7 +8,7 @@
 
 ## What IS in This Repository
 
-This repository (`JoeShook/claude-code` / `anthropics/claude-code`) contains:
+This repository (`anthropics/claude-code`) contains:
 
 1. **Plugin System Examples** - Official Claude Code plugins that extend functionality:
    - agent-sdk-dev
