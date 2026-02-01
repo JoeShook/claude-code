@@ -51,7 +51,7 @@ This repository includes several Claude Code plugins that extend functionality w
 
 ## Repository scope
 
-This repository does not include the core Claude Code CLI application source. It focuses on official plugins, custom commands, and supporting metadata that extend the CLI experience distributed via the installers above.
+This repository does not include the core Claude Code CLI application source. The CLI is distributed via the installers above, and this repository focuses on official plugins, custom commands, and supporting metadata that extend that experience. For details about the CLI itself, see the [official documentation](https://code.claude.com/docs/en/overview).
 
 ## Reporting Bugs
 
