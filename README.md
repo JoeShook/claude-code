@@ -49,6 +49,10 @@ For more installation options, uninstall steps, and troubleshooting, see the [se
 
 This repository includes several Claude Code plugins that extend functionality with custom commands and agents. See the [plugins directory](./plugins/README.md) for detailed documentation on available plugins.
 
+## Repository scope
+
+This repository does not include the core Claude Code CLI application source. The CLI is distributed via the installers above, and this repository focuses on official plugins, custom commands, and supporting metadata that extend that experience. For details about the CLI itself, see the [official documentation](https://code.claude.com/docs/en/overview).
+
 ## Reporting Bugs
 
 We welcome your feedback. Use the `/bug` command to report issues directly within Claude Code, or file a [GitHub issue](https://github.com/anthropics/claude-code/issues).
